@@ -12,3 +12,6 @@
 
 ## 网络优化
 <https://github.com/hn-failte/FrontPref/blob/master/NetworkPref.md>
+
+## React性能优化
+<https://github.com/hn-failte/FrontPref/blob/master/ReactPref.md>
