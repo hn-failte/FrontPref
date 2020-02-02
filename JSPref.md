@@ -28,7 +28,7 @@
 
 减少未使用代码
 
-- 1、进行tree-shaking
+- 1、进行tree-shaking，删减未使用的代码
 
 
 算法优化
